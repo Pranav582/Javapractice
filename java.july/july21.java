@@ -1,3 +1,7 @@
+
+
+
+
 public class july21 {
     public static void main(String[] args) {
     //  System.out.println("hello");  
@@ -30,6 +34,126 @@ public class july21 {
 
     // System.out.println( "place : " + favplace + " ," +  "mode of transport : " + " ," + transportation + 
     // "estimated cost  :  " + " " + cost + " ," + "date : "+  date +  "month : " + " ," + month );
+
+    //user input
+    // System.out.println("...Pet Data.....");
+
+    // Scanner sc = new Scanner (System.in);
+    // System.out.print("Enter pet name :");
+    // String petname = sc.next() ;
+    // System.out.print("Pet age :");
+    // float age = sc.nextFloat();
+    // System.out.print("Weight  : ");
+    // float weight = sc.nextFloat();
+    // System.out.print("Breed of pet : ");
+    // String breed = sc.next();
+    // System.out.print("Gender : ");
+    // String gender = sc.next();
+    // System.out.print("Is your pet vaccinated :");
+    // boolean Isvaccinated = sc.nextBoolean();
+
+
+    
+
+    // System.out.println( petname +"" + age " " + weight + " " + breed + "" + Isvaccinated);
+
+
+//   short a = 1;
+//   byte b = 36;
+//   int c  = a+b;
+//   System.out.println(c);
+
+//task 1
+// Scanner sc = new Scanner (System.in);
+// System.out.print("Enter employee Id :");
+// int emoloyeeId = sc.nextInt();
+// System.out.print("Employee name :");
+// String employeeName = sc.next(); 
+// System.out.print("Age :");
+// float age = sc.nextFloat();
+// System.out.print("Salary :");
+// double salary = sc.nextDouble();
+// System.out.print("Genter :");
+// String  gender = sc.next();
+
+//task 2
+// System.out.println("--Welcome to SBI--");
+
+//         Scanner sc = new Scanner(System.in);
+
+//         System.out.print("Enter your account no: ");
+//         int accNo = sc.nextInt();
+
+//         System.out.print("Customer's name: ");
+//         String customerName = sc.next();
+
+//         System.out.print("Enter deposit amount: ");
+//         int amount = sc.nextInt();
+
+//         System.out.println("Details added sucessfully");
+
+
+        //task3
+//         Passenger Name
+// Age
+// Destination
+// Is Ticket Confirmed
+
+// Scanner sc = new Scanner(System.in);
+
+// System.out.print("Passenger Name : ");
+// String passengerName = sc.next();
+// System.out.print("Age : ");
+// float age = sc.nextFloat();
+// System.out.print("Enter destination : ");
+// String destination = sc.next();
+
+
+
+
+// boolean IsticketConformed = sc.nextBoolean();
+        
+        
+
+
+
+
+
+
+// System.out.println(Long.SIZE);
+// System.out.println(Double.SIZE);
+// System.out.println(Integer.SIZE);
+
+// System.out.println(Character.SIZE);
+
+
+// short A = 234;
+// int b = 254;
+// int c = 0;
+//  c = A * b + b - A;
+
+//  System.out.printf("c : %d", c);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
