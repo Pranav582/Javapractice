@@ -1,2 +1,5 @@
 *.class
 .DS_Store
+*.class
+.DS_Store
+tempCodeRunnerFile.java
